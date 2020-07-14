@@ -1,3 +1,5 @@
+// do i need to use the jquery here, or insert in a script tag?
+
 let jquery = require('jquery');
 
 const stuff = [
